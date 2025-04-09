@@ -24,12 +24,10 @@ style D stroke:#00B2EE,stroke-width:4px
 
 ### 1-pager project descriptions 
 <table>
+  <tr> <td> <b> AI/ML to process .GPR photos </a> </b> </td> <td> 1-pager being drafted . . . explore AI/ML methods to use raw .GPR input and processed .GPR and .JPEG outputs to train a model to assist with photo processing, our most rate-limiting step </td> </tr>
   <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/DVL_beam_splitter.md"> DVL_beam_splitter </a> </b> </td> <td> Create a BlueOS extension to log and view the x4 DISTANCE_SENSOR messages from the DVL </td> </tr>
-  <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/GNSS_compass_logging.md"> GNSS_compass_logging </a> </b> </td> <td> Modify a BlueOS extension to log a satellite compass' topside GPS, compass, and pitch and roll data  </td> </tr>
-  <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/USBL_acoustic_logging.md"> USBL_acoustic_logging </a> </b> </td> <td> Modify a blueOS extension to log the raw acoustics from a USBL system </td> </tr>
   <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/bull_kelp_tracking.md"> bull_kelp_tracking </a> </b> </td> <td> Identify a computer vision path forward for detecting and tracking bull kelp stipes </td> </tr>
   <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/KelpNet.md"> KelpNet </a> </b> </td> <td> Create an image classifier platform for kelp and substrate </td> </tr>
-  <tr> <td> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/USBL_DVL_post-processing.md"> <b> USBL_DVL_post-processing </b> </a> </td> <td> Generate ROV track logs by combining DVL and USBL post-flight </td> </tr>
   <tr> <td> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/localization_fixit.md"> <b> ArduSub Localization Fixit </b> </a> </td> <td> BlueOS extension to diagnose and fix common localization problems </td> </tr>
  </table>
 
