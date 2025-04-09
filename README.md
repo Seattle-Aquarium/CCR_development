@@ -24,6 +24,7 @@ style D stroke:#00B2EE,stroke-width:4px
 
 ### 1-pager project descriptions 
 <table>
+  <tr> <td> <b> AI/ML to process .GPR photos </a> </b> </td> <td> 1-pager being drafted . . . explore AI/ML methods to use raw .GPR input and processed .GPR and .JPEG outputs to train a model to assist with photo processing, our most rate-limiting step </td> </tr>
   <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/DVL_beam_splitter.md"> DVL_beam_splitter </a> </b> </td> <td> Create a BlueOS extension to log and view the x4 DISTANCE_SENSOR messages from the DVL </td> </tr>
   <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/bull_kelp_tracking.md"> bull_kelp_tracking </a> </b> </td> <td> Identify a computer vision path forward for detecting and tracking bull kelp stipes </td> </tr>
   <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/KelpNet.md"> KelpNet </a> </b> </td> <td> Create an image classifier platform for kelp and substrate </td> </tr>
