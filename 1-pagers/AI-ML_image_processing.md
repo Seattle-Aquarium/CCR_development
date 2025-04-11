@@ -1,4 +1,4 @@
-# AI/ML_image_processing
+# AI-ML_image_processing
 
 ## Background
 We equip our ROV with two downward-facing GoPro HERO12 cameras to take 27.3MP survey images of the seafloor, with the aim to photograph algae, invertebrates, fishes, and the underlying substrate.
