@@ -1,7 +1,6 @@
 # AI/ML_image_processing
 
 ## Background
-Both cameras capture RAW images at 3-second intervals across four transects, leaving us with hundreds to a 1000+ unedited `.GPR` images.
 We equip our ROV with two downward-facing GoPro HERO12 cameras to take 27.3MP survey images of the seafloor, with the aim to photograph algae, invertebrates, fishes, and the underlying substrate.
 The cameras capture RAW images (GoPro's General Purpose Raw, i.e., .GPR file; info [linked here](https://github.com/gopro/gpr)) at 3-second intervals, leaving us with hundreds if not thousands of unedited GPR images (the GoPro also captures a JPEG preview of each GPR photo, though these are not edited, as the GPR enables a much greater degree of post-processing).
 While we batch edit these images in Adobe Lightroom Classic, each image often requires individual tuning before any meaningful data can be extracted from it with subsequent programs.
