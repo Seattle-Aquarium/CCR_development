@@ -2,6 +2,17 @@
 
 This repo serves as a landing pad for active areas of development of our Coastal Climate Resilience (CCR) program. Specifically, this repo houses 1-pager .md documents ready for development, and also a hub to communicate via the Issues tab. 
 
+### 1-pager project descriptions 
+<table>
+  <tr> <td> <b> <a href="https://github.com/Seattle-Aquarium/CCR_development/blob/main/1-pagers/AI-ML_image_processing.md"> AI/ML to process .GPR photos </a> </b> </td> <td> Explore AI/ML methods to use raw .GPR input and processed .JPEG outputs to train a model to assist with photo processing, our most rate-limiting step </td> </tr>
+  <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/DVL_beam_splitter.md"> DVL_beam_splitter </a> </b> </td> <td> Create a BlueOS extension to log and view the x4 DISTANCE_SENSOR messages from the DVL </td> </tr>
+  <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/bull_kelp_tracking.md"> bull_kelp_tracking </a> </b> </td> <td> Identify a computer vision path forward for detecting and tracking bull kelp stipes </td> </tr>
+  <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/KelpNet.md"> KelpNet </a> </b> </td> <td> Create an image classifier platform for kelp and substrate </td> </tr>
+  <tr> <td> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/localization_fixit.md"> <b> ArduSub Localization Fixit </b> </a> </td> <td> BlueOS extension to diagnose and fix common localization problems </td> </tr>
+ </table>
+
+<!---  <tr> <td> <a href="URL"> <b> TITLE </b> </a> </td> <td> DESCRIPTION </td> </tr>  -->
+
 ### Other CCR GitHub repositories
 ```mermaid
 
@@ -20,20 +31,3 @@ A --> E["<a href='https://github.com/Seattle-Aquarium/CCR_benthic_taxa_simulatio
 style D stroke:#00B2EE,stroke-width:4px
 
 ```
-
-
-### 1-pager project descriptions 
-<table>
-  <tr> <td> <b> AI/ML to process .GPR photos </a> </b> </td> <td> 1-pager being drafted . . . explore AI/ML methods to use raw .GPR input and processed .GPR and .JPEG outputs to train a model to assist with photo processing, our most rate-limiting step </td> </tr>
-  <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/DVL_beam_splitter.md"> DVL_beam_splitter </a> </b> </td> <td> Create a BlueOS extension to log and view the x4 DISTANCE_SENSOR messages from the DVL </td> </tr>
-  <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/bull_kelp_tracking.md"> bull_kelp_tracking </a> </b> </td> <td> Identify a computer vision path forward for detecting and tracking bull kelp stipes </td> </tr>
-  <tr> <td> <b> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/KelpNet.md"> KelpNet </a> </b> </td> <td> Create an image classifier platform for kelp and substrate </td> </tr>
-  <tr> <td> <a href="https://github.com/zhrandell/Seattle_Aquarium_CCR_development/blob/main/1-pagers/localization_fixit.md"> <b> ArduSub Localization Fixit </b> </a> </td> <td> BlueOS extension to diagnose and fix common localization problems </td> </tr>
- </table>
-
-<!---  <tr> <td> <a href="URL"> <b> TITLE </b> </a> </td> <td> DESCRIPTION </td> </tr>  -->
-
-
-## Other resources
-* To access our main GitHub landing page for the CCR program, see [Seattle_Aquarium_Coastal_Climate_Resilience](https://github.com/zhrandell/Seattle_Aquarium_Coastal_Climate_Resilience). 
-* To access a repo with various analytical resources, see [Seattle_Aquarium_CCR_analytical_resources](https://github.com/zhrandell/Seattle_Aquarium_CCR_analytical_resources).
