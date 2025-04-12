@@ -38,3 +38,5 @@ It is our hope that our manual edits across many images will have captured a suf
 There appear to be some AI-powered image editing software available, such as [Aftershoot](https://aftershoot.com/edit/) or [Imagen](https://imagen-ai.com/).
 Additionally, a framework in Python could likely be established. 
 There are a variety of options available, and we are unsure of which options ought to be explored in more detail or are best suited for underwater imagery. 
+
+And please see https://github.com/Seattle-Aquarium/CCR_development/issues/29 for active discussion of various approaches / considerations re: this problem. 
