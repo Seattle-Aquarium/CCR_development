@@ -21,8 +21,7 @@ To process these photos, we
 (**1**) apply the denoise feature set to 55 to all of the images; we 
 (**2**) choose a single image, crop it to dimensions 4606 x 4030, select a white patch to adjust white balance, and make any other necessary adjustments to Tone settings (exposure, highlights, shadows, whites, blacks). 
 We (**3**) copy the settings from this single image and paste to all others within the transect to achieve a baseline for the entire image set.
-We (**4**) then need to review each photo individually, tweaking Tone and, when necessary, Presence settings (texture, clarity, dehaze) to account for variation across images;
-and herein lies the most time-consuming step.
+We (**4**) then need to review each photo individually, tweaking Tone and, when necessary, Presence settings (texture, clarity, dehaze) to account for variation across images--and herein lies the most time-consuming step.
 The final results are JPEG images that have been denoised, cropped, color-corrected, and brightened significantly.
 For example, you can see a fully processed transect [here](https://www.dropbox.com/scl/fo/nkgka51g6zmk94c3je1zm/APA28IzNJSZ-_4uRkBHgLk0?rlkey=p7knm31b0la2kudx235fx3h72&st=ummi5snl&dl=0). 
 
